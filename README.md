@@ -10,7 +10,7 @@ While following best practices should help improve your project’s overall secu
 
 ### Chapters
 
-1. [Introduction](./introduction.md)
+1. [Introduction](./01-introduction.md)
 2. A private security reporting pipeline with a designated handler
 3. Internal Vulnerability Response Policies
 4. Follow best practices for development, build pipelines, etc.
