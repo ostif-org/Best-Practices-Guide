@@ -11,13 +11,13 @@ While following best practices should help improve your project’s overall secu
 ### Chapters
 
 1. [Introduction](./01-introduction.md)
-2. A private security reporting pipeline with a designated handler
-3. Internal Vulnerability Response Policies
-4. Follow best practices for development, build pipelines, etc.
-5. Up to Date Security (CVEs, necessary patches, etc)
-6. Updated Knowledgebase keeping track of security efforts, access privileges, etc.
-7. Milestones in mind for when you need to increase security efforts (e.g. harden further, get an audit, etc)
-8. What to do next
+2. [A private security reporting pipeline with a designated handler](./02-pipeline.md)
+3. [Internal Vulnerability Response Policies](./03-reponse.md)
+4. [Follow best practices for development, build pipelines, etc.](./04-follow.md)
+5. [Up to Date Security (CVEs, necessary patches, etc)](./05-up-to-date.md)
+6. [Updated Knowledgebase keeping track of security efforts, access privileges, etc.](./06-kb.md)
+7. [Milestones in mind for when you need to increase security efforts (e.g. harden further, get an audit, etc)](./07-milestones.md)
+8. [What to do next](./08-what-next.md)
 
 
 ### Contributors
