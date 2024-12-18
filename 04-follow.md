@@ -22,8 +22,8 @@ Taking advantage of the open source ecosystem that prioritizes transparency and 
 - [ ] Verifiable security
 - [ ] Copy similar projects
 - [ ] Do Self Guided Security Reviews
-- - [ ] [OpenSSF Security Scorecard](https://github.com/ossf/scorecard)
-- - [ ] OWASP Application Security Verification Standard
+  - [ ] [OpenSSF Security Scorecard](https://github.com/ossf/scorecard)
+  - [ ] OWASP Application Security Verification Standard
 
 
 |  |  |
