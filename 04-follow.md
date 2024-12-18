@@ -1,6 +1,6 @@
 # Security Best Practices Guide
 
-## Follow best practices for development, build pipelines, etc.
+## Follow best practices for development, build pipelines, etc.¹
 
 A project should ideally participate in recommended practices by the security community that can improve its security health. Such efforts will nurture the code’s health as well as harden it against attacks. With regards to testing, dependency handling, and continuous integration, the following steps can help prevent incidents and unpatched vulnerabilities in release versions: 
 
@@ -30,4 +30,4 @@ Taking advantage of the open source ecosystem that prioritizes transparency and 
 | :---  | ---:  |
 | [Back](./02-pipeline.md)  | [Next](04-follow.md)  |
 
-*¹ This section topic and recommendations contributed by Least Authority*
+*¹ Steps for development best practices contributed by Least Authority*
