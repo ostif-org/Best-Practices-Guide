@@ -28,6 +28,6 @@ Taking advantage of the open source ecosystem that prioritizes transparency and 
 
 |  |  |
 | :---  | ---:  |
-| [Back](./02-pipeline.md)  | [Next](04-follow.md)  |
+| [Back](./03-response.md)  | [Next](05-up-to-date.md)  |
 
 *¹ Steps for development best practices contributed by Least Authority*
