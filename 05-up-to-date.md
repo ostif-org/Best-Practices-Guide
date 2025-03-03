@@ -8,7 +8,7 @@ As a maintainer:
 
 - Are you subscribed to relevant CVEs?
 - Are you subscribed to the security announcements mailing lists for all languages, libraries, and dependencies related to your project, tools and anything else relevant to it?
-- Updates are automated when possible/safe for project
+- Are updates are automated when possible/safe for project?
 
 Available for open source projects are free SAST tooling, like on Github or OSS-Fuzz, that can be quickly and easily merged to provide up to date bug and vulnerability issues directly from your code to your inbox. Simply by turning on and utilizing available testing tools, low-hanging fruit can be identified and fixed, allowing further security efforts to focus on more difficult or complex findings. 
 
